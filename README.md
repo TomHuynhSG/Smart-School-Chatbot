@@ -51,14 +51,15 @@ pip install google-cloud-dialogflow
 pip install flask
 ```
 
-### Executing program
+### Workflow
 
 ![Workflow](https://i.imgur.com/jsEyoNN.png)
 
+This chatbot is running 24/7 to answer questions from students so I choose to host it for free on replit.com and have uptimerobot.com to ping the server every 5 minute to prevent it from shutting down on replit.
 
 ## Usage
 
-Here are some read examples of the chatbot in action where students just talk to it naturally like to a real TA: 
+Here are some read examples of the chatbot in action where students just talk to it naturally like to a real TA, where its answers are unique and different everytime:
 
 * Ask what it can do
 
