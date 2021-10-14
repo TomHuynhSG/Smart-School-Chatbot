@@ -1,0 +1,81 @@
+{
+  "id": "5b7e7314-a9c0-4a80-8923-f4e2b8bef7c5",
+  "name": "food",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I\u0027m thinking about",
+            "Maybe you should go for",
+            "Today is the good day for",
+            "Hmmm, it seems you should eat",
+            "Definitely, we should have",
+            "Too easy, let\u0027s go for",
+            "Let\u0027s have",
+            "Hey, what about"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Pho",
+            "Cha ca",
+            "Banh xeo",
+            "Cao lau",
+            "Rau muong",
+            "Nem ran/cha gio",
+            "Goi cuon",
+            "Bun bo Hue",
+            "Banh khot",
+            "Ga tan",
+            "Bun bo",
+            "Pho cuon",
+            "Ga nuong",
+            "Pho xao",
+            "Bo la lot",
+            "Xoi",
+            "Banh cuon",
+            "Bot chien",
+            "Bun dau mam tom",
+            "Banh goi",
+            "Com suon nuong",
+            "Chao",
+            "Bo luc lac",
+            "Banh uot thit nuong",
+            "Bun cha",
+            "Banh mi",
+            "Banh bao",
+            "Com rang",
+            "Bo bit tet",
+            "My xao bo"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

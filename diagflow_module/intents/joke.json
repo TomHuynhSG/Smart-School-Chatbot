@@ -1,0 +1,58 @@
+{
+  "id": "011542c9-444b-4511-a817-f3831b0138e9",
+  "name": "joke",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Black holes are where God divided by zero",
+            "There are 10 types of people in the world: those who understand binary, and those who don\u0027t",
+            "I would love to change the world, but they won\u0027t give me the source code",
+            "You have successfully logged in, Now press any key to log out",
+            "What\u0027s the best thing about Switzerland? I don\u0027t know, but the flag is a big plus",
+            "I\u0027ve just invented a new word! Plagiarism!",
+            "Hear about the new restaurant called Karma? There\u0027s no menu: You get what you deserve!",
+            "Why don\u0027t scientists trust atoms? Because they make up everything!",
+            "How do you drown a hipster ? Throw him in the mainstream",
+            "What did the left eye say to the right eye? Between you and me, something smells",
+            "What did the elephant say to the naked man? \"How do you breathe through that [tiny thing]?\"",
+            "I told my wife she was drawing her eyebrows too high. She looked surprised.",
+            "Two cannibals are eating a clown. One looks at the other and asks, \"Does this taste funny to you?\"",
+            "A skeleton walks into a bar. He orders a beer and a mop.",
+            "Women only call me ugly until they find out how much money I make. Then they call me ugly and poor.",
+            "I threw a boomerang a few years ago. Now I live in constant fear.",
+            "I broke my finger last week. On the other hand, I’m okay.",
+            "What happened when the strawberry crossed the road? There was a traffic jam.",
+            "Two blind dudes are fighting really viciously. How do you stop them? You shout, “I’m betting on the dude with the knife!”",
+            "What did Zero say to number Eight? “Nice belt.”",
+            "My girlfriend is always yelling at me because I get my directions mixed up. So I packed my bags and right left away!",
+            "What’s the difference between in-laws and outlaws? Outlaws are wanted.",
+            "Why did the old man fall in the well? Because he couldn’t see that well.",
+            "What’s the soft stuff between sharks’ teeth? Slow swimmers."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

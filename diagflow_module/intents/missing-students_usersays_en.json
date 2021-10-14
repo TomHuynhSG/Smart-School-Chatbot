@@ -1,0 +1,154 @@
+[
+  {
+    "id": "e74e4695-2ff9-4485-ae9c-f395d1c80911",
+    "data": [
+      {
+        "text": "who not yet check-in?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35bd8695-cfdf-4ca6-b57d-fc52aef229b1",
+    "data": [
+      {
+        "text": "who haven\u0027t check-in?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "32a8c3b1-1baf-4087-a4ba-4ad7ecdc3421",
+    "data": [
+      {
+        "text": "who are late ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "39064f22-d373-443f-9819-3f5e9d5b5db2",
+    "data": [
+      {
+        "text": "\u003c@!763411344857759775\u003e who is missing today?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "afe4d424-5ecf-40b1-bd76-649de85fe11e",
+    "data": [
+      {
+        "text": "\u003c@!763411344857759775\u003e who are missing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b4bc29ac-2384-4210-82da-14423b2619dd",
+    "data": [
+      {
+        "text": "missing people",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b94dd1b7-615e-4c8b-acf3-939a9826e278",
+    "data": [
+      {
+        "text": "missing students?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "62997fbe-d783-48e4-a137-19728196dd38",
+    "data": [
+      {
+        "text": "people are not here",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "88f7d084-137c-453b-bd5f-88f115634922",
+    "data": [
+      {
+        "text": "who is not in the class?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5107756d-ea01-43ef-9c6d-a6a2d6e7a164",
+    "data": [
+      {
+        "text": "who is missing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02b9dd9b-ac99-4056-89fb-f6211573b647",
+    "data": [
+      {
+        "text": "show me missing students",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

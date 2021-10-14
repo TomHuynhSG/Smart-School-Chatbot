@@ -1,0 +1,65 @@
+{
+  "id": "d1558f1f-c431-4dfd-a81f-c3927642d0b2",
+  "name": "greeting",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hi Cutie Pie! Are you a bank loan? Because you got my interest.",
+            "Hey good looking ;) You and I are like nachos with jalapeños. I\u0027m super cheesy, you\u0027re super hot, and we belong together!",
+            "Hi Sunshine! Did you just come out of the oven? Because you’re hot!",
+            "So happy to see you, Sweetheart! Do you have a name, or can I just call you ‘mine?’",
+            "Awwww, thank god, you are here! I always thought happiness started with an ‘h,’ but it turns out mine starts with ‘u.’",
+            "Hello Honey Bunny! You know, I always thought that Disneyland was the ‘happiest place on Earth,’ but that was before I got a chance to stand here next to you.",
+            "Welcome back, I missed you, Honey bun!",
+            "Hello, you must be in a museum, because you truly are a work of art ;)",
+            "Hello beautiful! If I were a cat, I’d spend all nine of my lives with you.",
+            "Hello there, did the sun come out or did you just smile at me?",
+            "Hey, if I could rearrange the alphabet, I’d put ‘U’ and ‘I’ together ;)",
+            "Hey there, Sugar pie ;) Trust me, I’m not drunk; I’m just intoxicated by you!",
+            "Hello there, do you have a map? I keep getting lost in your eyes ;)",
+            "Hello, do u know what’s on the menu? Me ‘n’ u ;)",
+            "Welcome, I love you! I’m not usually religious, but when I saw you, I knew you were the answer to my prayers.",
+            "Heyyy there, even in zero gravity, I would still fall for you!",
+            "Hi gorgeous! Something’s wrong with my eyes, because I can’t take them off you ;)",
+            "Hi there, You must be tired from running through my mind all night ;)",
+            "Oh, hi, is your name \"Google\"? Because you have everything I’ve been searching for ;)",
+            "Hi there, your eyes are like the ocean; I could swim in them all day ;)",
+            "Oh hey, I never believed in love at first sight, but that was before I saw you.",
+            "Oh, I was wondering if you could tell me: If you’re here, who’s running Heaven? :p",
+            "Oh hey, you know what you would look really beautiful in? My arms.",
+            "Hi, are you a magician? It’s the strangest thing, but every time I look at you, everyone else disappears :p",
+            "Hi there, want to go outside and get some fresh air with me? You just took my breath away :p",
+            "Oh hi there, if you were a Transformer, you’d be ‘Optimus Fine.’ :p",
+            "Hi, I just wonder what does it feel like to be the most gorgeous person in the room? :p",
+            "Hi there, the sparkle in your eyes is so bright, the sun must be jealous :p",
+            "Hello there, if beauty were time, you’d be eternity.",
+            "Hi there, I don’t know which is prettier today—the weather, or your eyes."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

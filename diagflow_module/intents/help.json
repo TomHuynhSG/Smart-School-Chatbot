@@ -1,0 +1,35 @@
+{
+  "id": "ba5e27a2-931a-4482-8347-380e17a99385",
+  "name": "help",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hi students, here are what I can do:\n- I can check your attendance by greeting me\n- I can give important links (material links, zoom link, score dashboard,...) \n- I can cheers you up when you are sad :((\n- I can tell you jokes to make you smile :))\n- I can clear up my own messages \n- I can show who is missing or not yet check their attendance\n- I can answer common questions about CoderSchool (opening hours, who is CEO, best instructor, TA,...)\n- I can do small talks to you :))\n- I can introduce a bit about myself\n- I can choose what kind of food you should have for lunch or dinner \n- I can give points to you (Can only be done by TAs/Instructors). \nFormat: `give {point} {activity} {notes (optional)} {mentions}`. \nActivity can be [quiz|project|attendance|activities|others]\nExample: @bu give 2 activities finishing homework @abc @def"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

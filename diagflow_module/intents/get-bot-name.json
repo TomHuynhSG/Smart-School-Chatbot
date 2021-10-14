@@ -1,0 +1,37 @@
+{
+  "id": "9254b999-8bd2-4bac-b29e-339ca184bcff",
+  "name": "get-bot-name",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "My name is Bu, the AI dog bot of Coderschool! Nice to meet you!",
+            "I\u0027m Bu, super cute AI dog! Ask my creator, Tom Huynh at Coderschool!",
+            "Hi, I\u0027m Bu, super AI built based on the real cute dog! Ask me anything!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

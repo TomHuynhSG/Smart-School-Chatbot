@@ -1,0 +1,64 @@
+{
+  "id": "3574633d-2c28-417a-962f-ed093b0c8d81",
+  "name": "cheers",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "To the optimist, the glass is half full. To the pessimist, the glass is half empty. To the engineer, the glass is twice as big as it needs to be.",
+            "I :bee: :leaves: in you!",
+            "If not now, when?",
+            "I love you 3000 \u003c3",
+            "Be a unicorn in a field of horses!",
+            "It is OK if you don\u0027t understand! Remember to be resilient and consistent everyday!",
+            "There really is no learning without doing.",
+            "A journey of a thousand miles must begin with a single step.",
+            "Normality is the route to nowhere.",
+            "Life is what happens to you while you\u0027re busy making other plans.",
+            "If you don\u0027t fail at least 90 percent of the time, you\u0027re not aiming high enough.",
+            "Good ideas are out there for anyone with the wit and the will to find them.",
+            "I find that the harder I work, the more luck I seem to have.",
+            "If everything seems under control, you\u0027re not going fast enough.",
+            "Normality is the route to nowhere.",
+            "Talkers are no good doers.",
+            "The wonderful and frustrating thing about understanding yourself is that nobody can do it for you.",
+            "Don\u0027t worry about what anybody else is going to do. The best way to predict the future is to invent it.",
+            "To follow the path: look to the master, follow the master, walk with the master, see through the master, become the master.",
+            "No problem should ever have to be solved twice.",
+            "Dealing with failure is easy: Work hard to improve. Success is also easy to handle: You\u0027ve solved the wrong problem. Work hard to improve.",
+            "Philosophy: the finding of bad reasons for what one believes by instinct.",
+            "Simplicity takes effort",
+            "Show, don\u0027t tell.",
+            "I would rather be an optimist and be wrong than a pessimist who proves to be right. The former sometimes wins, but never the latter.",
+            "All problems in computer science can be solved by another level of indirection.",
+            "For the things we have to learn before we can do them, we learn by doing them.",
+            "A designer knows he has arrived at perfection not when there is no longuer anything to add, but when there is no longuer anything to take away.",
+            "Any fool can make the simple complex, only a smart person can make the complex simple.",
+            "Don\u0027t have good ideas if you aren\u0027t willing to be responsible for them."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

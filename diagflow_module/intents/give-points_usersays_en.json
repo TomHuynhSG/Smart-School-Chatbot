@@ -1,0 +1,159 @@
+[
+  {
+    "id": "2fd5bce1-1a65-41ac-9d3a-3cba83549e81",
+    "data": [
+      {
+        "text": "\u003c@!763411344857759775\u003e give 1 \u003c@!821009664820117504\u003e",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "36937488-2d62-44f8-86c8-8c5dd08998a8",
+    "data": [
+      {
+        "text": "\u003c@!763411344857759775\u003e give 1 activities \u003c@!821009664820117504\u003e",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "74831a13-347c-43af-ab9b-96e2612d64bd",
+    "data": [
+      {
+        "text": "give ",
+        "userDefined": false
+      },
+      {
+        "text": "9",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " for \u003c@!46456456456455\u003e for ",
+        "userDefined": false
+      },
+      {
+        "text": "projects",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6fbe81db-3a98-4bd5-a451-e115fdb3cbb8",
+    "data": [
+      {
+        "text": "-20",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " for \u003c@!34543534534533\u003e for  ",
+        "userDefined": false
+      },
+      {
+        "text": "attendance",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5154eaf-98a2-484b-a010-bfb476671ab9",
+    "data": [
+      {
+        "text": "+",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " to \u003c@8657657567568\u003e for ",
+        "userDefined": false
+      },
+      {
+        "text": "answering question",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f07f0ca6-4af5-42a4-9cbf-fba0008d9f62",
+    "data": [
+      {
+        "text": "plus ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " to \u003c@!678645645645756765\u003e for ",
+        "userDefined": false
+      },
+      {
+        "text": "quiz",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5809a315-359f-46fc-b68e-a9b4ecd26b61",
+    "data": [
+      {
+        "text": "give ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " points to \u003c@!34534534564504\u003e for ",
+        "userDefined": false
+      },
+      {
+        "text": "project",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

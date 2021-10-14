@@ -1,0 +1,48 @@
+[
+  {
+    "value": "quiz",
+    "synonyms": [
+      "quiz",
+      "quizes",
+      "kahoot",
+      "questions",
+      "question"
+    ]
+  },
+  {
+    "value": "project",
+    "synonyms": [
+      "project",
+      "projects"
+    ]
+  },
+  {
+    "value": "attendance",
+    "synonyms": [
+      "attendance",
+      "check-in",
+      "late",
+      "on-time",
+      "ontime"
+    ]
+  },
+  {
+    "value": "activities",
+    "synonyms": [
+      "activities",
+      "activity",
+      "answering",
+      "answer",
+      "answering question",
+      "answer questions",
+      "answer the question"
+    ]
+  },
+  {
+    "value": "others",
+    "synonyms": [
+      "others",
+      "other"
+    ]
+  }
+]

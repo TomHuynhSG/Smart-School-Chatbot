@@ -1,0 +1,111 @@
+[
+  {
+    "id": "137599b5-1882-41f7-8634-dbb0196bdbdd",
+    "data": [
+      {
+        "text": "when is the office hours?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4290bff5-2a63-4bf3-8d06-0756980ecc41",
+    "data": [
+      {
+        "text": "what is the office hours?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5c562ef-d601-468f-9962-f45783c48f9c",
+    "data": [
+      {
+        "text": "\u003c@!763411344857759775\u003e when the class start",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e7447909-c682-4b03-a6ed-a457dd36b8f2",
+    "data": [
+      {
+        "text": "what ",
+        "userDefined": false
+      },
+      {
+        "text": "time",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " does the school open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "31a6331f-7558-4b9b-ac42-3868b498f5ce",
+    "data": [
+      {
+        "text": "What is the opening hours?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "681ee3c3-5535-4399-9535-e494dbb9b307",
+    "data": [
+      {
+        "text": "What is the opening hours for CoderSchool?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8d9895e3-f0cf-45a4-a3fe-27c5ea84fc8c",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "time",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " CoderSchool open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

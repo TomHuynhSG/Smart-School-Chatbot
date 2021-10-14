@@ -1,0 +1,38 @@
+{
+  "id": "d11c154c-ab9c-4827-b9ab-da69a496ab43",
+  "name": "who-is-your-father",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Tom Huynh is my father, Luke! The Darth Vader!",
+            "My master is Tom Huynh, and he spent all his afternoon to create me!",
+            "I love my father, Tom Huynh!",
+            "My creator is Tom Huynh, the director of Coderschool!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

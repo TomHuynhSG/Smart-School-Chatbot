@@ -1,0 +1,93 @@
+[
+  {
+    "id": "e666a5e2-82a4-4eb0-b8eb-2ec2d9197339",
+    "data": [
+      {
+        "text": "clean",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "169ffe01-540c-4f21-9f84-02431902a49a",
+    "data": [
+      {
+        "text": "clean up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "973ef061-4266-4b4e-acd5-9024cc370386",
+    "data": [
+      {
+        "text": "clear",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bee88a82-00bc-46b8-b024-f09ea7a49252",
+    "data": [
+      {
+        "text": "delete all",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab9fa7d3-af3e-4e14-b445-ab9e768e4615",
+    "data": [
+      {
+        "text": "clear up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be540304-b5d6-42dc-90d9-1bd9dd81ec9e",
+    "data": [
+      {
+        "text": "delete all messages",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c8b4753-f183-4149-aa2b-4a48d56c6f94",
+    "data": [
+      {
+        "text": "clear all messages",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

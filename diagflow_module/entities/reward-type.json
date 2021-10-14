@@ -1,0 +1,9 @@
+{
+  "id": "1e6965b5-d2e0-4859-bc03-66c47c38e966",
+  "name": "reward-type",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

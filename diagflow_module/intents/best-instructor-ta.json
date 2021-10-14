@@ -1,0 +1,60 @@
+{
+  "id": "c2aa983b-0559-49b8-9cf5-31c0050de838",
+  "name": "best-instructor-ta",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It\u0027s definitely",
+            "For sure, it is",
+            "Too easy, it is",
+            "I love",
+            "Everyone knows it is"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Tom",
+            "Quan",
+            "Nhan",
+            "Ai",
+            "Nick",
+            "Hieu",
+            "Tuan",
+            "Vinh",
+            "anh Minh",
+            "Bitna",
+            "Loi",
+            "Charles"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
