@@ -1,6 +1,6 @@
 PROJECT_ID="coderschool-bot-nval"
 SESSION_ID="123456789"
-KEY_PATH="./coderschool-bot.json"
+KEY_PATH="./dialogflow-bot.json"
 
 import os
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"]=KEY_PATH

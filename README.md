@@ -25,31 +25,24 @@ Here are what Bu can do:
 
 ## Getting Started
 
-### Dependencies
+### Requirements & Dependencies
 
-* Python 3.5.3+
-* discord library
-* google.cloud.dialogflow library 
-* flask library 
-
-### Installing
-
-* Make sure you have discord.py which works with Python 3.5.3 or higher. You can get the library directly from PyPI:
+* All the library requirements can be installed through requirements.txt.
 ```
-python3 -m pip install -U discord.py
+pip install -r requirements.txt
 ```
 
-* Install diaglow library:
+* Make sure you have your own discord details in ```.env``` file.
+```
+DISCORD_TOKEN={BOT DISCORD TOKEN}
+DISCORD_GUILD={GUILD NAME}
+COHORT_METADATA={METADATA SPREADSHEET ID}
+BOT_NAME={BOT NAME}
+STUDENT_SCORING={STUDENT SCORING SPREADSHEET ID}
+```
 
-```
-pip install google-cloud-dialogflow
-```
+* Your Google Service Account credentials in the ```credentials.json``` and ```dialogflow_bot.json```.
 
-* Install flask library:
-
-```
-pip install flask
-```
 
 ### Workflow
 
