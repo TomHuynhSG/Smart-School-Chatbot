@@ -102,13 +102,13 @@ Here are some read examples of the chatbot in action where students just talk to
 
 ![Meal choice](https://i.imgur.com/fbvzmp1.png)
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details
-
 ## Acknowledgments
 
 Some useful documents are:
 * [discordpy](https://discordpy.readthedocs.io/en/latest/)
 * [realpython](https://realpython.com/how-to-make-a-discord-bot-python/)
 * [dialogflow](https://cloud.google.com/dialogflow/es/docs)
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
