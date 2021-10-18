@@ -52,7 +52,7 @@ This chatbot is running 24/7 to answer questions from students so I choose to ho
 
 ## Usage
 
-Here are some read examples of the chatbot in action where students just talk to it naturally like to a real TA, where its answers are unique and different everytime:
+Here are some real examples during the lectures of the chatbot in action where students just talk to it naturally like to a real TA, where its answers are unique and different everytime:
 
 * Ask what it can do
 
