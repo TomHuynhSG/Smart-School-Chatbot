@@ -1,4 +1,4 @@
-# bootcamp-NLP-chatbot
+# smart-school-chatbot
 
 ![Intro](https://i.imgur.com/0vuPOkb.jpg)
 
