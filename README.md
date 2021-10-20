@@ -66,7 +66,7 @@ Here are some real examples during the lectures of the chatbot in action where s
 
 ![Father](https://i.imgur.com/XV3HVJg.png)
 
-* It can automatically check students' attendance by just greeting to it and it will reply in a funny way
+* It can automatically check students' attendance to the system by just greeting to it and it will reply in a funny way
 
 ![Check attendance 1](https://i.imgur.com/bJKhUa5.png)
 
@@ -74,17 +74,21 @@ Here are some real examples during the lectures of the chatbot in action where s
 
 ![Check attendance 3](https://i.imgur.com/PYmEhQF.png)
 
+* It can award students who are active in the class
+
+![Give score](https://i.imgur.com/Atdo1c7.png)
+
+As you can see, the bot will automatically log in students' performances like attendance, activities and more. Students can check out their scores and ranking anytime on the dashboard.
+
+![dashboard](https://i.imgur.com/MXNyi4L.png)
+
 * It can answer some common questions about the course or the company
 
 ![opening hours](https://i.imgur.com/fvOs2QD.png)
 
 * It can show relevant links of the course which students ask for
 
-![Dashboard](https://i.imgur.com/7y1MzlY.png)
-
-* It can award students who are active in the class
-
-![Give score](https://i.imgur.com/Atdo1c7.png)
+![Links](https://i.imgur.com/7y1MzlY.png)
 
 * It can cheer up students if they are are sad or struggled
 
