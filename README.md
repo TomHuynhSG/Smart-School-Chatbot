@@ -80,7 +80,7 @@ Here are some real examples during the lectures of the chatbot in action where s
 
 As you can see, the bot will automatically log in students' performances like attendance, activities and more. Students can check out their scores and ranking anytime on the Google Data Studio dashboard.
 
-![dashboard](https://i.imgur.com/MXNyi4L.png)
+![dashboard](https://i.imgur.com/jcUg7z9.png)
 
 * It can answer some common questions about the course or the company
 
